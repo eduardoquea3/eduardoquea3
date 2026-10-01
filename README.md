@@ -63,6 +63,14 @@ A desktop Pomodoro timer built with React and TypeScript, using Tauri for its na
 
 `React` · `TypeScript` · `Tauri`
 
+## Languages used
+
+<div align="center">
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoquea3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/eduardoquea3)
+
+</div>
+
 ---
 
 <div align="center">
