@@ -49,14 +49,19 @@ I build maintainable web applications, REST APIs, and database-backed products. 
 - Contributed bug fixes and functional improvements associated with a 30% reduction in client-reported issues.
 - Integrated AI tools into development and interface-design workflows, reducing prototyping and iteration time by 40%.
 
-## GitHub stats
+## Selected projects
 
-<div align="center">
+### [Nexus Studio](https://github.com/eduardoquea3/nexus-studio)
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoquea3&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/eduardoquea3)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoquea3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/eduardoquea3)
+A desktop database manager for connecting to PostgreSQL, MySQL, and SQLite, browsing database objects, inspecting table data, and running SQL.
 
-</div>
+`TypeScript` · `React` · `Tauri` · `Rust` · `PostgreSQL` · `MySQL` · `SQLite`
+
+### [Tempo](https://github.com/eduardoquea3/tempo)
+
+A desktop Pomodoro timer built with React and TypeScript, using Tauri for its native app experience.
+
+`React` · `TypeScript` · `Tauri`
 
 ---
 
